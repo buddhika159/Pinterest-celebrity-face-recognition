@@ -15,29 +15,12 @@ This images has been collected from Pinterest and cropped. There are 105 celebri
 
 The below libraries are needed to execute the Python code
 
-* Python 3.8
-* Tensorflow 2.1.0
+* Python 3.9
+* Tensorflow 2.8.0
 * Numpy
 * Matplotlib
 
 #### Dataset Link: https://www.kaggle.com/hereisburak/pins-face-recognition 
-#### Kaggle Link: https://www.kaggle.com/srikeshram/celebrity-face-recognition
 
 ## Pre-Trained Weights:
 The pre-trained model weights for the classification of 105 celebrities has been uploaded as a .zip file which can be extracted to obtain the .h5 file. This file can be loaded with the Tensorflow in case of without training the model again to obtain the new weights.
-
-## Repository Contains:
-* Python Code (.ipynb)
-* Trained Weights(.h5)
-
-
-
-
-## License:
-
-This project is licensed under the Apache License 2.0- see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgements:
-* hereisburak for Dataset
-* Inspiration
-* etc...
