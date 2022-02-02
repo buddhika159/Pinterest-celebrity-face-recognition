@@ -1,7 +1,7 @@
 # Celebrity-Face-Recognition
 The Deep Learning Model is trained using Tensorflow Framework and it gives validation accuracy value of 85%
 
-![](![](fig.png))
+![Image detaset](https://user-images.githubusercontent.com/41227474/152083422-64a2e197-5da5-458b-8914-fbacd526e731.png)
 
 
 ## Description:
