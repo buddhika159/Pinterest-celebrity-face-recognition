@@ -3,7 +3,7 @@
 
 The Deep Learning Model is trained using Tensorflow Framework and it gives validation accuracy value of 85%
 
-<p float="left" align="middle">
+<p align="middle">
   <img src="fig.png" width="90%" />
 </p>
 
