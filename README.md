@@ -12,16 +12,16 @@ Download the dataset from the kaggle link given below the description and split 
 
 This images has been collected from Pinterest and cropped. There are 105 celebrities and 17534 faces
 
+#### Dataset Link: https://www.kaggle.com/hereisburak/pins-face-recognition 
+
 ## Prerequisites:
 
 The below libraries are needed to execute the Python code
 
-* Python 3.9
-* Tensorflow 2.8.0
-* Numpy
-* Matplotlib
-
-#### Dataset Link: https://www.kaggle.com/hereisburak/pins-face-recognition 
+- Python 3.9
+- Tensorflow 2.8.0
+- Numpy
+- Matplotlib
 
 ## Pre-Trained Weights:
 The pre-trained model weights for the classification of 105 celebrities has been uploaded as a .zip file which can be extracted to obtain the .h5 file. This file can be loaded with the Tensorflow in case of without training the model again to obtain the new weights.
