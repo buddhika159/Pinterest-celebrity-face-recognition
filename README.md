@@ -16,7 +16,7 @@ This images has been collected from Pinterest and cropped. There are 105 celebri
 
 ## Prerequisites:
 
-The below libraries are needed to execute the Python code
+Below libraries are needed to execute the Python code
 
 - Python 3.9
 - Tensorflow 2.8.0
