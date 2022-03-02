@@ -1,4 +1,4 @@
-# Celebrity-Face-Recognition
+# [Celebrity-Face-Recognition](https://github.com/buddhika159/Pinterest-celebrity-face-recognition)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 The Deep Learning Model is trained using Tensorflow Framework and it gives validation accuracy value of 85%
