@@ -1,4 +1,4 @@
-# [Celebrity-Face-Recognition](https://github.com/buddhika159/Pinterest-celebrity-face-recognition)
+# Celebrity-Face-Recognition
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -24,6 +24,7 @@ Below libraries are needed to execute this Python code.
 
 - Python 3.9
 - Tensorflow 2.8.0
+- Keras
 - Numpy
 - Matplotlib
 
