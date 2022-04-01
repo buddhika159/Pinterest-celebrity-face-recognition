@@ -9,7 +9,7 @@ This project builds a Deep CNN using **Transfer Learning** method.
     - There are 17534 faces of 105 celebrities
   - Randomly create training test datasets
   - Model: `MobileNetV2` 155 layers
-    - `MobileNetV2()` with `imagenet` weights -->  Dropout layer --> softmax layer
+    - `MobileNetV2()` with `imagenet` weights -->  `Dropout layer` --> `softmax layer`
   - `myCallback()` to stop training when accuracy reaches `98%`
   - Validation Accuracy: `95.56%`
   - Validation Accuracy: `96.81%`
