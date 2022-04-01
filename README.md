@@ -3,10 +3,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-<p align="middle">
-  <img src="fig.png" width="90%" />
-</p>
-
 ## Description:
 This project builds a Deep CNN using **Transfer Learning** method.
   - Dataset: [Kaggle Pinterest celebrity faces](https://www.kaggle.com/datasets/hereisburak/pins-face-recognition)
@@ -17,6 +13,10 @@ This project builds a Deep CNN using **Transfer Learning** method.
   - `myCallback()` to stop training when accuracy reaches `98%`
   - Validation Accuracy: `95.56%`
   - Validation Accuracy: `96.81%`
+
+<p align="middle">
+  <img src="fig.png" width="90%" />
+</p>
 
 ## Prerequisites:
 Below libraries are needed to execute this Python code.
