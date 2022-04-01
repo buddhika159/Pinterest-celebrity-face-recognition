@@ -22,6 +22,7 @@ This project builds a Deep CNN using **Transfer Learning** method.
 Below libraries are needed to execute this Python code.
 - Python 3.9
 - Tensorflow 2.8.0
+- Keras 2.7.0
 - Numpy
 - Matplotlib
 
