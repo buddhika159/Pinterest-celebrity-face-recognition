@@ -11,7 +11,6 @@ This project builds a Deep CNN using **Transfer Learning** method.
   - Model: `MobileNetV2` 155 layers
     - `MobileNetV2()` with `imagenet` weights -->  `Dropout layer` --> `softmax layer`
   - `myCallback()` to stop training when accuracy reaches `98%`
-  - Validation Accuracy: `95.56%`
   - Validation Accuracy: `96.81%`
 
 <p align="middle">
