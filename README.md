@@ -9,8 +9,11 @@ This project builds a Deep CNN using **Transfer Learning** method.
     - There are 17534 faces of 105 celebrities
   - Randomly create training test datasets
   - Model: `MobileNetV2` 155 layers
-    - `MobileNetV2()` with `imagenet` weights -->  `Dropout layer` --> `softmax layer`
-  - `myCallback()` to stop training when accuracy reaches `98%`
+    - `MobileNetV2()` with `imagenet` weights -->  `Dropout layer` --> `Global Average Pooling2D layer` --> `softmax layer`
+    - `Dropout layer` - is a regularization technique where randomly selected neurons are ignored (droped out) during training, which helps to prevent overfitting.
+    - `Global Average Pooling2D layer` - takes a tensor of size (input width) x (input height) x (input channels) and computes the average value of all values across the entire (input width) x (input height) matrix for each of the (input channels)
+    - `softmax layer` - is an activation function to categorize the results into the `105` classes
+  - `myCallback()` to stop training when accuracy reaches `98%` (for future reference)
   - Validation Accuracy: `96.81%`
 
 <p align="middle">
